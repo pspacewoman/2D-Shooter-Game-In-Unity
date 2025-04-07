@@ -20,3 +20,11 @@ ___
 
 ___
 
+**Setting up 2D Game on Unity**
+
+1. Assets
+2. Animation
+3. Animator
+4. Player Health & Damage Setup
+   -  Physics Interactions: collider, RigidBody component, Custom Script Component
+
