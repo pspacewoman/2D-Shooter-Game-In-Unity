@@ -10,5 +10,3 @@ My Objective:
 - Build the game for multiple platforms
 
 
-
-![Screenshot 2025-04-07 at 16 23 33](https://github.com/user-attachments/assets/815339c5-6d0c-4de8-9524-9179925d4e9c)
