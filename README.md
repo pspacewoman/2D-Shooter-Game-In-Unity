@@ -1,2 +1,6 @@
-# 2D-Shooter-Game-In-Unity
-2D Games | 2D Sprites &amp; Animations  | Implementing 2D Mechanics
+##**2D Shooter Game in UNITY** 
+- creating 2D Game
+- Working with 2D Sprites
+- Created 2D Animations
+
+
