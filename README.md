@@ -1,14 +1,12 @@
 # 🎮 **2D Shooter Game in UNITY**  
 
+https://priyanshi-singh.itch.io/2d-shooter-game-unity 
+
 📌 **Live Game (Version 1.0)**: 
 
 [Behance Link](https://www.behance.net/gallery/223175801/2D-Shooter-Game)
 
-https://priyanshi-singh.itch.io/2d-shooter-game-unity 
-
 Built From Scratch 👩🏻‍💻🚀
-
-Added my own notes below for understanding the development process 📝
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
 ![Platform](https://img.shields.io/badge/Platform-PC%20&%20Web-blue?style=for-the-badge)  
@@ -17,6 +15,8 @@ Added my own notes below for understanding the development process 📝
 ![Version](https://img.shields.io/badge/Version-2.0%20Coming%20Soon-orange?style=for-the-badge)
 
 ---
+
+Added my own notes below for understanding the development process 📝
 
 <img width="300" alt="Thumbnail" src="https://github.com/user-attachments/assets/df2e954d-15af-4d20-b04a-c45353a0ea94" />
 
