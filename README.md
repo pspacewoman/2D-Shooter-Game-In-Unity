@@ -115,7 +115,7 @@ Added my own notes below for understanding the development process 📝
 ---
 
 <details>
-<summary>🎯 <strong>Fiinal Development</strong></summary>
+<summary>🎯 <strong>Fiinal Development Version 1.0</strong></summary>
 
 ### 1. Added More Levels  
 - Duplicate Scene Level1 to Level2 and Level3 and add them to build profiles  
@@ -140,9 +140,9 @@ Added my own notes below for understanding the development process 📝
 
 <details>
    
-<summary>🧩 <strong>Scaling Up</strong></summary>
+<summary>🧩 <strong>Final Project</strong></summary>
 
-## 🛠️ Final Submission Requirements Checklist
+## Checklist:
 
 - [ ] Make **three significant modifications** to the original game.
 - [ ] Choose a **new name for the game** and update the **UI to reflect the new title** throughout the game.
@@ -156,15 +156,11 @@ Added my own notes below for understanding the development process 📝
 
 </details>
 
-
 ---
 
 <details>
    
-<summary>🧩 <strong>Modification Suggestions</strong></summary>
--  three significant modifications
-
-## ✅ Planned Modifications Checklist
+<summary>🧩 <strong>Modification In Version 2.0</strong></summary>
 
 ### 🎨 Design Modifications
 - [ ] Create a complete, interesting, comprehensive, and coherent level.
