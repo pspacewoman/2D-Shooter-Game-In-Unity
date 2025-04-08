@@ -108,9 +108,9 @@ Added my own notes below for understanding the development process 📝
 ---
 
 <details>
-<summary>🎯 <strong>Finishing Up GAME Development</strong></summary>
+<summary>🎯 <strong>Fiinal Development</strong></summary>
 
-### 1. Adding More Levels  
+### 1. Added More Levels  
 - Duplicate Scene Level1 to Level2 and Level3 and add them to build profiles  
 - Goto Scene Leve1 > NextLevelScreen > set to Level2  
 - Same for Level2 > Level3  
@@ -122,7 +122,7 @@ Added my own notes below for understanding the development process 📝
 - Assets > Scripts  
 - Understanding how Unity attributes can be modified by both unity and by visual studio  
 
-### 4. Finishing the Project  
+### 4. Finished the Project (VERSION 1.0)  
 - Build Game Profiles for MaC, Windows, WebGl
 - Tested on Web and MacOS - Success
 - Uploaded the game on itch.io for view (https://priyanshi-singh.itch.io/2d-shooter-game-unity)
