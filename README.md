@@ -129,6 +129,8 @@ Added my own notes below for understanding the development process 📝
 <summary>🧩 <strong>Assignment</strong></summary>
 **Assignment**
 
+</details>
+
 ---
 <details>
 <summary>🧩 <strong>Upcoming</strong></summary>
@@ -138,3 +140,5 @@ Added my own notes below for understanding the development process 📝
 - Upcoming: Visual Studio Code Script adding on GitHub: IN PROGRESS
 - Attachments: IN PROGRESS
 - Scaling Up the project with more functionalities
+
+</details>
