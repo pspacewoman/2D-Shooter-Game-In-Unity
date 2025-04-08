@@ -24,8 +24,6 @@ https://priyanshi-singh.itch.io/2d-shooter-game-unity-v2
 
 🚀 From Game Player to Game Developer. The only thing more fun than playing games is making them. 
 
-I like making 2D and 3D - games, software, environment.
-
 ---
 Built From Scratch👩🏻‍💻 
 Added my own notes below for understanding the development process 📝
