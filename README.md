@@ -8,7 +8,6 @@
 
 https://priyanshi-singh.itch.io/2d-shooter-game-unity 
 
-Built From Scratch 👩🏻‍💻🚀
 
 ![Platform](https://img.shields.io/badge/Platform-PC%20&%20Web-blue?style=for-the-badge)  
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
@@ -16,6 +15,7 @@ Built From Scratch 👩🏻‍💻🚀
 ![Version](https://img.shields.io/badge/Version-2.0%20Coming%20Soon-orange?style=for-the-badge)
 
 ---
+Built From Scratch 👩🏻‍💻🚀
 
 Added my own notes below for understanding the development process 📝
 
