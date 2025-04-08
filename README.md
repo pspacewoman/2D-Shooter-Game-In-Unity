@@ -13,6 +13,7 @@ Added my own notes below for understanding the development process 📝
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
 ![Platform](https://img.shields.io/badge/Platform-PC%20&%20Web-blue?style=for-the-badge)  
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
+
 ![Version](https://img.shields.io/badge/Version-2.0%20Coming%20Soon-orange?style=for-the-badge)
 
 ---
