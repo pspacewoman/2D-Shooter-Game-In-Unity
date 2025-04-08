@@ -21,6 +21,11 @@ https://priyanshi-singh.itch.io/2d-shooter-game-unity-v2
 ![Version](https://img.shields.io/badge/Version-3.0%20Coming%20Soon-orange?style=for-the-badge)
 
 ---
+
+From Game Player to Game Developer
+The only thing more fun than playing games is making them. I can make games.
+
+---
 Built From Scratch 👩🏻‍💻🚀
 
 Added my own notes below for understanding the development process 📝
