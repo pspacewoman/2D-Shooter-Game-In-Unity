@@ -8,7 +8,7 @@ https://priyanshi-singh.itch.io/2d-shooter-game-unity
 
 Built From Scratch 👩🏻‍💻🚀
 
-Added my own notes below for understanding development process 📝
+Added my own notes below for understanding the development process 📝
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
 ![Platform](https://img.shields.io/badge/Platform-PC%20&%20Web-blue?style=for-the-badge)  
@@ -120,12 +120,12 @@ Added my own notes below for understanding development process 📝
 - Understanding how Unity attributes can be modified by both unity and by visual studio  
 
 ### 4. Finishing the Project  
-- Upcoming: Visual Studio Code Script adding on GitHub: IN PROGRESS
-- Attachments: IN PROGRESS
-- Scaling Up the project with more functionalities
-
-- Took screenshots during the live game demo
-- 
+- Build Game Profiles for MaC, Windows, WebGl
+- Tested on Web and MacOS - Success
+- Uploaded the game on itch.io for view (https://priyanshi-singh.itch.io/2d-shooter-game-unity)
 
 <img width="1438" alt="VS Code" src="https://github.com/user-attachments/assets/9df52f45-3381-4998-b960-edd5e0a3a807" />
 
+- Upcoming: Visual Studio Code Script adding on GitHub: IN PROGRESS
+- Attachments: IN PROGRESS
+- Scaling Up the project with more functionalities
