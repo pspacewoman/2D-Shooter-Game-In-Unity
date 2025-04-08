@@ -109,6 +109,7 @@ Added my own notes below for understanding the development process 📝
 ### 8. MUSIC  
 - Adding 2 music in one main menu and another on the game levels  
 - hierarchy > create empty > music name > added component 'audio source' > prefab drag drop music to component > done  
+
 </details>
 
 ---
@@ -135,4 +136,23 @@ Added my own notes below for understanding the development process 📝
 
 </details>
 
+---
+
+<details>
+   
+<summary>🧩 <strong>Scaling Up</strong></summary>
+
+## 🛠️ Final Submission Requirements Checklist
+
+- [ ] Make **three significant modifications** to the original game.
+- [ ] Choose a **new name for the game** and update the **UI to reflect the new title** throughout the game.
+- [ ] Ensure there are **no bugs**, **gameplay flaws**, or **look-and-feel issues** before publishing.
+- [ ] On **Itch.io**:
+  - [ ] For **Windows and Mac builds**, select **"Executable"** and specify the correct platform.
+  - [ ] For **WebGL builds**, check **"This file will be played in the browser"**.
+  - [ ] Include a description of your **three significant modifications**.
+  - [ ] Add **game credits**: *"Created by [Your Name]"*.
+
+
+</details>
 
