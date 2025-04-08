@@ -1,7 +1,3 @@
-Here's a visually enhanced and interactive version of your README file, using features like collapsible sections (`<details>`), tables, badges, and markdown formatting—**without changing your original words**. This makes the content more engaging while keeping your content intact:
-
----
-
 # 🎮 **2D Shooter Game in UNITY**  
 
 📌 **Live Project**: [Behance Link](https://www.behance.net/gallery/223175801/2D-Shooter-Game)
