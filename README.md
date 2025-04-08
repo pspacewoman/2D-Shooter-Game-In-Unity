@@ -1,6 +1,6 @@
 # 🎮 **2D Shooter Game in UNITY**  
 
-📌 **Live Project**: 
+📌 **Live Game (Version 1.0)**: 
 
 [Behance Link](https://www.behance.net/gallery/223175801/2D-Shooter-Game)
 
@@ -13,6 +13,7 @@ Added my own notes below for understanding the development process 📝
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
 ![Platform](https://img.shields.io/badge/Platform-PC%20&%20Web-blue?style=for-the-badge)  
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-2.0%20Coming%20Soon-orange?style=for-the-badge)
 
 ---
 
@@ -126,23 +127,4 @@ Added my own notes below for understanding the development process 📝
 
 </details>
 
----
 
-<details>
-<summary>🧩 <strong>Assignment</strong></summary>
-**Assignment**
-
-</details>
-
----
-
-<details>
-<summary>🧩 <strong>Upcoming</strong></summary>
-
-<img width="1438" alt="VS Code" src="https://github.com/user-attachments/assets/9df52f45-3381-4998-b960-edd5e0a3a807" />
-
-- Upcoming: Visual Studio Code Script adding on GitHub: IN PROGRESS
-- Attachments: IN PROGRESS
-- Scaling Up the project with more functionalities
-
-</details>
