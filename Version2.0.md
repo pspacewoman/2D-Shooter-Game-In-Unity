@@ -1,9 +1,17 @@
 <details>
 <summary>🧩 <strong>Scaling Up</strong></summary>
--   three significant modifications
--   new name for your game and change the UI in the game to reflect the new name
--   making sure there are no bugs (code issues), flaws in gameplay, or look-and-feel issues
--   on Itch.io : or Windows and Mac builds, make sure to select "Executable" and select the corresponding platform. For WebGL, make sure to click "This file will be played in the browser". Include a description of your actual modifications to the game (at least 3) AND your game credits ("Created by ...").
+
+## 🛠️ Final Submission Requirements Checklist
+
+- [ ] Make **three significant modifications** to the original game.
+- [ ] Choose a **new name for the game** and update the **UI to reflect the new title** throughout the game.
+- [ ] Ensure there are **no bugs**, **gameplay flaws**, or **look-and-feel issues** before publishing.
+- [ ] On **Itch.io**:
+  - [ ] For **Windows and Mac builds**, select **"Executable"** and specify the correct platform.
+  - [ ] For **WebGL builds**, check **"This file will be played in the browser"**.
+  - [ ] Include a description of your **three significant modifications**.
+  - [ ] Add **game credits**: *"Created by [Your Name]"*.
+
 
 </details>
 
