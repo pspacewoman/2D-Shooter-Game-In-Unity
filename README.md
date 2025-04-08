@@ -18,6 +18,8 @@
 - Create UI elements that work across multiple resolutions and aspect ratios  
 - Build the game for multiple platforms  
 
+<img width="1438" alt="Overview Unity" src="https://github.com/user-attachments/assets/a832efc5-06a0-4c3d-90d2-d05c4219a7c1" />
+
 ---
 
 <details>
@@ -107,3 +109,9 @@
 - Understanding how Unity attributes can be modified by both unity and by visual studio  
 
 ### 4. Finishing the Project  
+- Upcoming: Visual Studio Code Script adding on GitHub: IN PROGRESS
+- Attachments: IN PROGRESS
+- Scaling Up the project with more functionalities
+
+<img width="1438" alt="VS Code" src="https://github.com/user-attachments/assets/9df52f45-3381-4998-b960-edd5e0a3a807" />
+
