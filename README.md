@@ -6,13 +6,19 @@
 
 [Behance Link](https://www.behance.net/gallery/223175801/2D-Shooter-Game)
 
-https://priyanshi-singh.itch.io/2d-shooter-game-unity 
+https://priyanshi-singh.itch.io/2d-shooter-game-unity-v1
+
+📌 **Live Game (Version 2.0)**: 
+
+[Behance Link](https://www.behance.net/gallery/223257407/2D-Shooter-Game-UNITY-(V20))
+
+https://priyanshi-singh.itch.io/2d-shooter-game-unity-v2
 
 
 ![Platform](https://img.shields.io/badge/Platform-PC%20&%20Web-blue?style=for-the-badge)  
 ![Status](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)
 
-![Version](https://img.shields.io/badge/Version-2.0%20Coming%20Soon-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-3.0%20Coming%20Soon-orange?style=for-the-badge)
 
 ---
 Built From Scratch 👩🏻‍💻🚀
