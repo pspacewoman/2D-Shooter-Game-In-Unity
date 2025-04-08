@@ -124,6 +124,7 @@ Added my own notes below for understanding the development process 📝
 - Tested on Web and MacOS - Success
 - Uploaded the game on itch.io for view (https://priyanshi-singh.itch.io/2d-shooter-game-unity)
 
+</details>
 ---
 <details>
 <summary>🧩 <strong>Assignment</strong></summary>
