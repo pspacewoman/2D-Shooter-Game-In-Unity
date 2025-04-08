@@ -1,6 +1,10 @@
 # 🎮 **2D Shooter Game in UNITY**  
 
-📌 **Live Project**: [Behance Link](https://www.behance.net/gallery/223175801/2D-Shooter-Game)
+📌 **Live Project**: 
+
+[Behance Link](https://www.behance.net/gallery/223175801/2D-Shooter-Game)
+
+https://priyanshi-singh.itch.io/2d-shooter-game-unity 
 
 Built From Scratch 👩🏻‍💻🚀
 
@@ -119,6 +123,9 @@ Added my own notes below for understanding development process 📝
 - Upcoming: Visual Studio Code Script adding on GitHub: IN PROGRESS
 - Attachments: IN PROGRESS
 - Scaling Up the project with more functionalities
+
+- Took screenshots during the live game demo
+- 
 
 <img width="1438" alt="VS Code" src="https://github.com/user-attachments/assets/9df52f45-3381-4998-b960-edd5e0a3a807" />
 
