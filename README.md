@@ -82,7 +82,17 @@ ___
 -  Duplicate Scene Level1 to Level2 and Level3 and add them to build profiles
 -  Goto Scene Leve1 > NextLevelScreen > set to Level2
 -  Same for Level2 > Level3
--  Now, while testing, I noticed once the Level is complete I am asked to jump to next level scene
+-  Now, while testing, I noticed once the Level is complete, I am asked to jump to the next level scene
 
 2. A Deeper Dive Into TextMesh Pro
+-  Created new textmesh pro and applied changes like color,wraptext, and other relevant changes required in your text font
+
+3. Code Walkthrough
+-  Assets > Scripts
+-  Understanding how Unity attributes can be modified by both unity and by visual studio
+
+4. Finishing the Project
 -  
+
+
+
