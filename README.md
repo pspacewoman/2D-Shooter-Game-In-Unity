@@ -8,9 +8,7 @@
 
 ---
 
-<p align="center">
-  <img src="<img width="648" alt="Thumbnail" src="https://github.com/user-attachments/assets/c23384be-707e-4aa1-a842-1eda7f0fe651"/> alt="2D Shooter Game Thumbnail" width="600"/>
-</p>
+<img width="300" alt="Thumbnail" src="https://github.com/user-attachments/assets/df2e954d-15af-4d20-b04a-c45353a0ea94" />
 
 
 ## 🚀 My Objective
