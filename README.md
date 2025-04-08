@@ -124,6 +124,15 @@ Added my own notes below for understanding the development process 📝
 - Tested on Web and MacOS - Success
 - Uploaded the game on itch.io for view (https://priyanshi-singh.itch.io/2d-shooter-game-unity)
 
+---
+<details>
+<summary>🧩 <strong>Assignment</strong></summary>
+**Assignment**
+
+---
+<details>
+<summary>🧩 <strong>Upcoming</strong></summary>
+
 <img width="1438" alt="VS Code" src="https://github.com/user-attachments/assets/9df52f45-3381-4998-b960-edd5e0a3a807" />
 
 - Upcoming: Visual Studio Code Script adding on GitHub: IN PROGRESS
