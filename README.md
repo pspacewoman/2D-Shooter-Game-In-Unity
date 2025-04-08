@@ -38,7 +38,7 @@ Added my own notes below for understanding the development process 📝
 - Create UI elements that work across multiple resolutions and aspect ratios  
 - Build the game for multiple platforms  
 
-<img width="1438" alt="Overview Unity" src="https://github.com/user-attachments/assets/a832efc5-06a0-4c3d-90d2-d05c4219a7c1" />
+<img width="729" alt="Level3-Unity" src="https://github.com/user-attachments/assets/d5ba3fec-a191-4be7-9ecd-43fea7bac8a1" />
 
 ---
 
@@ -65,6 +65,8 @@ Added my own notes below for understanding the development process 📝
 7. **Level Setup**: created borders, backgrounds and test movement around the space  
 
 </details>
+
+<img width="425" alt="Game Over" src="https://github.com/user-attachments/assets/1bcfddd0-6183-45a5-a873-6bdd11c1553c" />
 
 ---
 
