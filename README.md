@@ -3,7 +3,8 @@
 📌 **Live Project**: [Behance Link](https://www.behance.net/gallery/223175801/2D-Shooter-Game)
 
 Built From Scratch 👩🏻‍💻🚀
-Added my own notes during development 📝
+
+Added my own notes below for understanding development process 📝
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
 ![Platform](https://img.shields.io/badge/Platform-PC%20&%20Web-blue?style=for-the-badge)  
