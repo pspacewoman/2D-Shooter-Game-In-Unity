@@ -125,7 +125,9 @@ Added my own notes below for understanding the development process 📝
 - Uploaded the game on itch.io for view (https://priyanshi-singh.itch.io/2d-shooter-game-unity)
 
 </details>
+
 ---
+
 <details>
 <summary>🧩 <strong>Assignment</strong></summary>
 **Assignment**
@@ -133,6 +135,7 @@ Added my own notes below for understanding the development process 📝
 </details>
 
 ---
+
 <details>
 <summary>🧩 <strong>Upcoming</strong></summary>
 
