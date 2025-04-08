@@ -8,6 +8,11 @@
 
 ---
 
+<p align="center">
+  <img src="<img width="648" alt="Thumbnail" src="https://github.com/user-attachments/assets/c23384be-707e-4aa1-a842-1eda7f0fe651" />" alt="2D Shooter Game Thumbnail" width="600"/>
+</p>
+
+
 ## 🚀 My Objective
 
 - Creating 2D Game  
