@@ -112,6 +112,12 @@ Added my own notes below for understanding the development process 📝
 - Adding 2 music in one main menu and another on the game levels  
 - hierarchy > create empty > music name > added component 'audio source' > prefab drag drop music to component > done  
 
+
+<img width="300" alt="Main Menu" src="https://github.com/user-attachments/assets/022c47b2-511b-4365-939a-1c587f4b0d6c" />    <img width="300" alt="LevelComplete" src="https://github.com/user-attachments/assets/57653c9c-ecb5-491e-9637-1feba6866f73" />
+
+
+
+
 </details>
 
 ---
@@ -188,4 +194,5 @@ Added my own notes below for understanding the development process 📝
 
 
 </details>
+
 
