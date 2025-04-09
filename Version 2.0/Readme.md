@@ -1,15 +1,14 @@
-# 2D-Shooter-Game-In-Unity-V3.0
-2D | UNITY | Arcade Game | Version 3.0
+# 2D-Shooter-Game-In-Unity-V2.0
+2D | UNITY | Arcade Game | Version 2.0
 
 
 ---
 
 <details>
    
-<summary>🧩 <strong>Modification Suggestions</strong></summary>
--  three significant modifications
+<summary>🧩 <strong>Modification Completed</strong></summary>
 
-## ✅ Planned Modifications Checklist
+## ✅ Modifications Checklist
 
 ### 🎨 Design Modifications
 - [ ] Create a complete, interesting, comprehensive, and coherent level.
